@@ -1,0 +1,7 @@
+echo "What is your name?"
+read name
+if [ "$name" = "Dhaval" ]; then
+    echo "Welcome Dhaval"
+else
+    echo "Welcome $name"
+fi

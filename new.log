@@ -1,0 +1,7 @@
+INFO Server started
+INFO Database connected
+WARNING Database connection failed
+INFO Server running
+WARNING Connection timeout
+INFO New request received
+WARNING Server connection failed
